@@ -6,7 +6,13 @@ Warsztat Tarnow Tech Community, wtorek 20.10.2026, Akademia Tarnowska.
 
 1. Kliknij zielony przycisk **Code** → **Download ZIP**.
 2. Rozpakuj zip do folderu Pobrane (Downloads).
-3. Wszystkie ścieżki w zadaniach, np. `szablony/code-review/SKILL.md`, liczymy od rozpakowanego folderu.
+3. Powstanie folder `TTC_Warsztat_antigravity_2026-10-20-main`. Wszystkie ścieżki w zadaniach, np. `szablony/code-review/SKILL.md`, liczymy od tego folderu.
+
+## Kredyty Google Cloud (zadanie 3)
+
+Prezent od Google for Developers, 5 USD na Google Cloud: https://g.dev/credits/tarnow-tech-community-antigravity
+
+Zaloguj się prywatnym kontem Gmail. Kredyt sprawdzisz w konsoli Google Cloud: **Billing** → **Credits**.
 
 ## Co jest w środku
 
